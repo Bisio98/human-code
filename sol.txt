@@ -1,0 +1,13 @@
+1.  Creo la lista della spesa
+2.  Per ogni elemento della lista
+        a.  Cerco elemento
+        b.  SE (è disponibile E non l'ho preso)
+                prendo il prodotto
+            ALTRIMENTI
+                prodotto successivo
+3.  Vado alla cassa
+4.  Uso il coupon
+5.  SE il prezzo è inferiore ai contanti 
+        pago
+    ALTRIMENTI
+        lascio alla cassa gli snack extra
